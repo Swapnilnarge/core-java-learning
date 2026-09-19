@@ -1,3 +1,5 @@
+package enums;
+
 enum Laptop3 {
     Macbook(2000),XPS(2200) , Acer(1800) , ThinkPad(1900);
     private int price;

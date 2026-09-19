@@ -1,3 +1,5 @@
+package enums;
+
 enum Status2 {
     Running, Failed, Pending, Success;
 }
@@ -21,13 +23,13 @@ public class EnumDemo2 {
         }
     }
 }
-//        if (s == Status2.Running) {
+//        if (s == enums.Status2.Running) {
 //            System.out.println("All Good");
 //
-//        } else if (s == Status2.Failed) {
+//        } else if (s == enums.Status2.Failed) {
 //            System.out.println("Try Again");
 //
-//        } else if (s == Status2.Pending) {
+//        } else if (s == enums.Status2.Pending) {
 //            System.out.println("Wait a sec");
 //
 //        } else {
