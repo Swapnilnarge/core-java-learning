@@ -1,9 +1,11 @@
+package streams;
+
 @FunctionalInterface
 interface FunctionalInterfaceI1 {
     void show();
 }
 
-//class FunctionalInterfaceC1 implements FunctionalInterfaceI1 {
+//class FunctionalInterfaceC1 implements streams.FunctionalInterfaceI1 {
 //    public void show(){
 //        System.out.println("In show");
 //    }

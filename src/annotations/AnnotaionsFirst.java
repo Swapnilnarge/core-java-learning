@@ -1,13 +1,15 @@
+package annotations;
+
 class AnnotationC1 {
     public void show() {
-        System.out.println(" In AnnotationC1 show");
+        System.out.println(" In annotations.AnnotationC1 show");
     }
 }
 
 class AnnotationC2 extends AnnotationC1 {
     @Override
     public void show() {
-        System.out.println(" In AnnotationC2 show");
+        System.out.println(" In annotations.AnnotationC2 show");
     }
 }
 

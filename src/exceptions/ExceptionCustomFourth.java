@@ -1,3 +1,5 @@
+package exceptions;
+
 class SwapnilException extends Exception {
     public SwapnilException(String str) {
         super(str);

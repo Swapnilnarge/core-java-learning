@@ -1,3 +1,5 @@
+package exceptions;
+
 public class ExceptionSecond {
     public static void main(String[] args) {
 

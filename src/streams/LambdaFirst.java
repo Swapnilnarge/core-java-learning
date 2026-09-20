@@ -1,3 +1,5 @@
+package streams;
+
 @FunctionalInterface
 interface LambdaInterFirst {
     public int add(int i, int a);
@@ -6,7 +8,7 @@ interface LambdaInterFirst {
 public class LambdaFirst {
     static void main(String[] args) {
 
-//        LambdaInterFirst obj = () -> System.out.println("In a show");
+//        streams.LambdaInterFirst obj = () -> System.out.println("In a show");
 //        obj.show();
 
 

@@ -1,4 +1,4 @@
-//class Rt1 implements Runnable {
+package threads;//class Rt1 implements Runnable {
 //    public void run() {
 //        for (int i = 1; i <= 10; i++) {
 //            System.out.println("Hello");
@@ -42,7 +42,7 @@ public class RunnableThreads {
 }
 
 
-//public class RunnableThreads {
+//public class threads.RunnableThreads {
 //    public static void main(String[] args) {
 //
 //        // Clean, modern lambda syntax
@@ -64,7 +64,7 @@ public class RunnableThreads {
 //}
 
 
-//public class RunnableThreads {
+//public class threads.RunnableThreads {
 //    public static void main(String[] args) {
 //
 //        // Creating a thread with an anonymous Runnable on the fly

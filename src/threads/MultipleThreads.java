@@ -1,3 +1,5 @@
+package threads;
+
 class MLThreads1 extends Thread {
     public void run() {
         for (int i = 1; i <= 100; i++) {
@@ -38,7 +40,7 @@ public class MultipleThreads {
 }
 
 
-//class MLThreads1 extends Thread {
+//class threads.MLThreads1 extends Thread {
 //
 //    public void run() {
 //
@@ -52,7 +54,7 @@ public class MultipleThreads {
 //
 //}
 //
-//class MLThreads2 extends Thread {
+//class threads.MLThreads2 extends Thread {
 //
 //    public void run() {
 //
@@ -66,13 +68,13 @@ public class MultipleThreads {
 //
 //}
 //
-//public class MultipleThreads {
+//public class threads.MultipleThreads {
 //
 //    public static void main(String[] args) {
 //
-//        MLThreads1 obj1 = new MLThreads1();
+//        threads.MLThreads1 obj1 = new threads.MLThreads1();
 //
-//        MLThreads2 obj2 = new MLThreads2();
+//        threads.MLThreads2 obj2 = new threads.MLThreads2();
 //
 //
 //        obj1.start();

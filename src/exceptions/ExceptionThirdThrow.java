@@ -1,3 +1,5 @@
+package exceptions;
+
 public class ExceptionThirdThrow {
     public static void main(String[] args) {
 

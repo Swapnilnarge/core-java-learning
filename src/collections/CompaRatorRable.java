@@ -1,3 +1,5 @@
+package collections;
+
 import java.util.*;
 
 class StudentComp {
@@ -11,7 +13,7 @@ class StudentComp {
 
     @Override
     public String toString() {
-        return "StudentComp{" +
+        return "collections.StudentComp{" +
                 "age=" + age +
                 ", name='" + name + '\'' +
                 '}';

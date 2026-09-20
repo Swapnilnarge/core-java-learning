@@ -1,3 +1,5 @@
+package exceptions;
+
 public class ExceptionHandelingFirst {
     public static void main(String[] args) {
 

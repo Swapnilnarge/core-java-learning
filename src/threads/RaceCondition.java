@@ -1,3 +1,5 @@
+package threads;
+
 class Counter {
     int count;
 

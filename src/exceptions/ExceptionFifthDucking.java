@@ -1,7 +1,9 @@
+package exceptions;
+
 class  ExceptionFifth {
     public void show() throws ClassNotFoundException{
 
-        Class.forName("ExceptionFifth");
+        Class.forName("exceptions.ExceptionFifth");
     }
 
 }
