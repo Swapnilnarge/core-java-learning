@@ -1,4 +1,6 @@
-    public class WhileLoop {
+package basics;
+
+public class WhileLoop {
         public static void main(String[] args)
         {
             //do while loop
@@ -21,7 +23,7 @@
 //                int j = 1;     // nested loop
 //                while (j<=3){
 //                    j++;
-//                    System.out.println("hello");
+//                    System.out.println("basics.hello");
 
 
 //                }

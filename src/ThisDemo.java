@@ -33,7 +33,7 @@ public class ThisDemo {
     public static void main(String[] args) {
         Human2 obj = new Human2();
         obj.setAge(22, obj);
-        obj.setName("Swapnil", obj);
+        obj.setName("basics.Swapnil", obj);
 
         System.out.println(obj.getAge() + " : " + obj.getName());
     }

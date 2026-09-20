@@ -1,3 +1,5 @@
+package basics;
+
 class Swapnil{
 
 }
@@ -6,7 +8,7 @@ public class VarDemo {
 
         int a = 9;
         var b = 10;
-        String var = "Swapnil";
+        String var = "basics.Swapnil";
 
         int c ;
         var d = 10;

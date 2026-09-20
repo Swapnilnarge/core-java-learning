@@ -8,7 +8,7 @@ public class ArrayOfObject {
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.rollNo=21;
-        s1.Name="Swapnil";
+        s1.Name="basics.Swapnil";
         s1.marks= 72;
 
         Student s2 = new Student();

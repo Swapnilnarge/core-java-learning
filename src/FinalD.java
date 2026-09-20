@@ -1,7 +1,7 @@
 //Final keyword = can be used with varible , method and class
 class Calc2{
       public void show(){
-          System.out.println("By Swapnil");
+          System.out.println("By basics.Swapnil");
       }
       public void show(int a, int b){
           System.out.println(a+b);

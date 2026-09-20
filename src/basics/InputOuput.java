@@ -1,5 +1,5 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
+package basics;
+
 import java.util.Scanner;
 
 public class InputOuput {

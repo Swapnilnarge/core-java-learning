@@ -1,3 +1,5 @@
+package basics;
+
 public class SwitchCase {
     public static void main(String[] args) {
         String day = "Monday";

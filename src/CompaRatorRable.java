@@ -28,7 +28,7 @@ public class CompaRatorRable {
         };
 
         List<StudentComp> studs = new ArrayList<>();
-        studs.add(new StudentComp(22, "Swapnil"));
+        studs.add(new StudentComp(22, "basics.Swapnil"));
         studs.add(new StudentComp(12, "Sonam"));
         studs.add(new StudentComp(34, "Kiran"));
         studs.add(new StudentComp(23, "Samy"));

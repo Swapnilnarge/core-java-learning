@@ -32,7 +32,7 @@ class Human3 {
 public class DeParaConst {
     public static void main(String[] args) {
         Human3 obj = new Human3();
-        Human3 obj1 = new Human3(22, "Swapnil");
+        Human3 obj1 = new Human3(22, "basics.Swapnil");
 
         System.out.println(obj.getAge() + " : " + obj.getName());
         System.out.println(obj1.getAge() + " : " + obj1.getName());

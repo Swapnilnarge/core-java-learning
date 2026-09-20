@@ -7,7 +7,7 @@ public class MapDemo {
 
         Map<String, Integer> students = new HashMap<>();
 
-        students.put("Swapnil", 12);
+        students.put("basics.Swapnil", 12);
         students.put("Sonam", 7);
         students.put("Kalika", 29);
 

@@ -21,7 +21,7 @@ public class EncapDemo {
     public static void main(String[] args) {
         Human obj1 = new Human();
         obj1.setAge(-25);
-        obj1.setName("Swapnil");
+        obj1.setName("basics.Swapnil");
         System.out.println(obj1.getAge() + " : " + obj1.getName());
     }
 }

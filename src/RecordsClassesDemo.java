@@ -44,7 +44,7 @@ record  AlienRC(int id, String name) {
 public class RecordsClassesDemo {
     public static void main(String[] args) {
 
-        AlienRC a1 = new AlienRC(12, "Swapnil");
+        AlienRC a1 = new AlienRC(12, "basics.Swapnil");
         AlienRC a2 = new AlienRC(7, "Sonam");
         System.out.println(a1.name());
         System.out.println(a1.equals(a2));

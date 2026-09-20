@@ -1,6 +1,6 @@
 interface First {
     int age = 30;
-    String name = "Swapnil";
+    String name = "basics.Swapnil";
 
     void show();
 
