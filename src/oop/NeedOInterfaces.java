@@ -1,3 +1,4 @@
+package oop;
 
 interface Computer {
     void code();
@@ -11,7 +12,7 @@ class LaptopNI implements Computer {
 
 class Desktop implements Computer {
     public void code() {
-        System.out.println("Working on Desktop");
+        System.out.println("Working on oop.Desktop");
     }
 }
 

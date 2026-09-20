@@ -1,3 +1,5 @@
+package oop;
+
 interface First {
     int age = 30;
     String name = "basics.Swapnil";

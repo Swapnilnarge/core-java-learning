@@ -1,10 +1,10 @@
-import java.util.Objects;
+package oop;
 
-//class AlienRC {
+//class oop.AlienRC {
 //    private final int id;
 //    private final String name;
 //
-//    public AlienRC(int id, String name) {
+//    public oop.AlienRC(int id, String name) {
 //        this.id = id;
 //        this.name = name;
 //    }
@@ -20,7 +20,7 @@ import java.util.Objects;
 //    @Override
 //    public boolean equals(Object o) {
 //        if (o == null || getClass() != o.getClass()) return false;
-//        AlienRC alienRC = (AlienRC) o;
+//        oop.AlienRC alienRC = (oop.AlienRC) o;
 //        return id == alienRC.id && Objects.equals(name, alienRC.name);
 //    }
 //
@@ -31,7 +31,7 @@ import java.util.Objects;
 //
 //    @Override
 //    public String toString() {
-//        return "AlienRC{" +
+//        return "oop.AlienRC{" +
 //                "id=" + id +
 //                ", name='" + name + '\'' +
 //                '}';

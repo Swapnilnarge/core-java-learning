@@ -1,5 +1,5 @@
-// **Static Method demo code**??
-// class Mobile2{
+package oop;// **Static Method demo code**??
+// class oop.Mobile2{
 //    String brand;
 //    int price;
 //    static String name;
@@ -7,27 +7,27 @@
 //    public void show() {
 //        System.out.println(brand + " : " + price + " : " + name);
 //    }
-//    public static void show1(Mobile2 obj){
+//    public static void show1(oop.Mobile2 obj){
 //        System.out.println(obj.brand + " : " + obj.price + " : " + name);
 //    }
 //
 //}
-//public class StaticMDemo {
+//public class oop.StaticMDemo {
 //    public static void main(String[] args) {
-//        Mobile2 obj1 = new Mobile2();
+//        oop.Mobile2 obj1 = new oop.Mobile2();
 //        obj1.brand="Apple";
 //        obj1.price=8000;
 //        obj1.name="Smartphone";
 //
-//        Mobile2 obj2 = new Mobile2();
+//        oop.Mobile2 obj2 = new oop.Mobile2();
 //        obj2.brand="Samsung";
 //        obj2.price=10000;
 //        obj2.name="smartphone";
-//        Mobile2.name="Phone";
+//        oop.Mobile2.name="Phone";
 //        obj1.show();
 //        obj2.show();
-//        Mobile2.show1(obj2);
-//        Mobile2.show1(obj1);
+//        oop.Mobile2.show1(obj2);
+//        oop.Mobile2.show1(obj1);
 //    }
 //}
 
@@ -55,7 +55,7 @@ class Mobile2 {
 public class StaticMDemo {
     static void main(String[] args) throws ClassNotFoundException {
 
-//        Class.forName("Mobile2");
+//        Class.forName("oop.Mobile2");
         Mobile2 obj1= new Mobile2();
         obj1.brand="Apple";
         obj1.price=80000;

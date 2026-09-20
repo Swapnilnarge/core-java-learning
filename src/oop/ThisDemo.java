@@ -1,3 +1,5 @@
+package oop;
+
 class Human2 {
     private int age;
     private String name;
@@ -11,7 +13,7 @@ class Human2 {
     }
 
     public void setAge(int age, Human2 obj) {
-//        Human2 obj1 = obj;
+//        oop.Human2 obj1 = obj;
 //        obj1.age = age;
         if(age < 0){
             System.out.println("Age is invalid");
@@ -23,7 +25,7 @@ class Human2 {
     }
 
     public void setName(String name, Human2 obj) {
-//        Human2 obj1 = obj;
+//        oop.Human2 obj1 = obj;
 //        obj1.name = name;
         this.name = name;
     }

@@ -1,3 +1,5 @@
+package oop;
+
 class Ann{
 
     public Ann(){
@@ -10,7 +12,7 @@ class Ann{
 
 public class Anonymous {
     public static void main(String[] args) {
-        new Ann().show();  // Anonymous object . It can be used once only after its creation
+        new Ann().show();  // oop.Anonymous object . It can be used once only after its creation
     }
 }
 

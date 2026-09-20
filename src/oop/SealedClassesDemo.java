@@ -1,3 +1,5 @@
+package oop;
+
 sealed class SealedCDemoC2 permits SealedCDemoC3 , SealedCDemoC4 {
 
 }

@@ -1,3 +1,5 @@
+package oop;
+
 // Static variable demo code
 class Mobile {
     String Brand;

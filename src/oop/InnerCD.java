@@ -1,3 +1,5 @@
+package oop;
+
 class Outer {
     int age ;
 

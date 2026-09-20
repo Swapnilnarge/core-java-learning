@@ -1,20 +1,22 @@
+package oop;
+
 class A{
     public A(){
-        System.out.println("In A");
+        System.out.println("In oop.A");
     }
     public A(int n)
     {
-        System.out.println("In A int");
+        System.out.println("In oop.A int");
     }
 }
 class B extends A{
     public B()
     {
-        System.out.println("In B");
+        System.out.println("In oop.B");
     }
     public B(int n){
         this();
-        System.out.println("In B int");
+        System.out.println("In oop.B int");
     }
 }
 public class ThisnSuper {

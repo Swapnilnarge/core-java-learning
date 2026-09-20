@@ -1,6 +1,8 @@
+package oop;
+
 class Parent{
     void greet(){
-        System.out.println("Hello from the Parent!");
+        System.out.println("Hello from the oop.Parent!");
 
     }
 }
@@ -15,3 +17,4 @@ public class ByPassMOverriding {
         obj1.greet();
     }
 }
+

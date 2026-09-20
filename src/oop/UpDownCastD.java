@@ -1,13 +1,14 @@
+package oop;
 
 class Up {
     public void show1() {
-        System.out.println("In show Up");
+        System.out.println("In show oop.Up");
     }
 }
 
 class Down extends Up {
     public void show2() {
-        System.out.println("In show Down");
+        System.out.println("In show oop.Down");
     }
 }
 

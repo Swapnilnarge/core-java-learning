@@ -1,3 +1,5 @@
+package oop;
+
 abstract class AbstractAnnony {
     public abstract void show();
     public abstract void config();
