@@ -1,5 +1,5 @@
-//Print all nos
-//public class Level1Array {
+package arrays;//Print all nos
+//public class arrays.Level1Array {
 //    public static void main(String[] args) {
 //        int nums[] = { 5, 8 , 2 , 9 , 1 };
 //        for(int i=0;i<nums.length;i++){
@@ -10,7 +10,7 @@
 //}
 
 // Print values of odd indices
-//public class Level1Array {
+//public class arrays.Level1Array {
 //    public static void main(String[] args) {
 //        int nums[] = { 5, 8 , 2 , 9 , 1 };
 //        for(int i=0;i<nums.length;i++)
@@ -20,7 +20,7 @@
 //    }
 
 //Print all even values iteslf
-//public class Level1Array {
+//public class arrays.Level1Array {
 //    public static void main(String[] args) {
 //        int nums[] = {  5, 8 , 2 , 9 , 1 };
 //        int count = 0;
@@ -33,7 +33,7 @@
 //    }
 //}
 //Problem 4= Sum of all elements
-//public class Level1Array {
+//public class arrays.Level1Array {
 //    public static void main(String[] args) {
 //        int nums[] = {5, 8, 2, 9, 1};
 //        int sum = 0;

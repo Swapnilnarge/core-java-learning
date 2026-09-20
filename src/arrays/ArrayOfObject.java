@@ -1,3 +1,5 @@
+package arrays;
+
 class Student {
     int rollNo;
     String Name;

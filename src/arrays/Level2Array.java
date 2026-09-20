@@ -1,5 +1,5 @@
-//Find the smallest no in array
-//public class Level2Array {
+package arrays;//Find the smallest no in array
+//public class arrays.Level2Array {
 //    public static void main(String[] args) {
 //        int nums[] = {5, 8, 2, 9, 1};
 //        int smallest = 5;
@@ -13,7 +13,7 @@
 //}
 
 //problem = 2 Calculate the average
-//public class Level2Array {
+//public class arrays.Level2Array {
 //    public static void main(String[] args) {
 //        int nums[] = {5, 8, 2, 9, 1};
 //        int sum = 0;
@@ -28,7 +28,7 @@
 //    }
 //}
 //Count odd numbers
-//public class Level2Array {
+//public class arrays.Level2Array {
 //    public static void main(String[] args) {
 //        int nums[] = {5, 8, 2, 9, 1};
 //        int count = 0;
@@ -45,8 +45,8 @@
 //Find the  index of the largest no
 //
 
-//Reverse print the Array
-//public class Level2Array {
+//Reverse print the arrays.Array
+//public class arrays.Level2Array {
 //    public static void main(String[] args) {
 //        int nums[] = {5, 8, 2, 9, 1};
 //        for(int i=(nums.length-1);i>=0;i--)
@@ -57,7 +57,7 @@
 //    }
 //}
 // Largest and smallest in one loop
-//public class Level2Array {
+//public class arrays.Level2Array {
 //    public static void main(String[] args) {
 //        int nums[] = {5, 8, 2, 9, 1};
 //        int largest = nums[0];

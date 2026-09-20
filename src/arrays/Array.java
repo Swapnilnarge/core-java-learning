@@ -1,5 +1,5 @@
-//print all elements.
-//public class Array {
+package arrays;//print all elements.
+//public class arrays.Array {
 //    public static void main(String[] args) {
 //        int nums[] = { 5, 4, 8 , 9};
 //
@@ -10,7 +10,7 @@
 //
 //}
 //Print the array without using loop
-//public class Array {
+//public class arrays.Array {
 //    public static void main(String[] args) {
 //        int nums[] = { 2 , 4 , 6 , 8 };
 //        System.out.println(nums[0]);
@@ -20,7 +20,7 @@
 //    }
 //}
 //Modify one element
-//public class Array {
+//public class arrays.Array {
 //    public static void main(String[] args) {
 //        int nums[] = { 2 , 4 , 6 , 8 , 10 };
 //        nums[3] = 0;
@@ -32,7 +32,7 @@
 //}
 //print only the even index values .
 
-//public class Array {
+//public class arrays.Array {
 //    public static void main(String[] args) {
 //        int nums[] = {2, 4, 6, 8, 10};
 //

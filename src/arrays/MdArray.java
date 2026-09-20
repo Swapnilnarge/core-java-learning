@@ -1,3 +1,5 @@
+package arrays;
+
 public class MdArray {
     public static void main(String[] args) {
         int nums[][] = new int[2][3];
