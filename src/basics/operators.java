@@ -1,3 +1,5 @@
+package basics;
+
 public class operators {
     public static void main(String[] args){
         int num = 7;
@@ -5,7 +7,7 @@ public class operators {
         //int num = 5;
         //int result = num % num;
         //num = num = 1;
-        // num += 1;   possible for all other operators also
+        // num += 1;   possible for all other basics.operators also
         // num++;      //post - increment
         //++num;       //pre - increment
         //num--;
