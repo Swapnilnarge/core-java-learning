@@ -38,4 +38,5 @@ The project is organized into domain-specific packages to maintain separation of
 ### Running Any Demo
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Swapnilnarge/core-java-learning.git](https://github.com/Swapnilnarge/core-java-learning.git)
+   git clone https://github.com/swapnilnarge/core-java-learning.git
+   cd core-java-learning
